@@ -1,6 +1,7 @@
 # Setup Guide For Keycloak
 
 1. [Download Keycloak](https://www.keycloak.org/downloads.html) and install it.
+
 2. Start the keycloak server by running the _standalone.sh_ file
 ```
 Root Directory of keycloak ---> bin ---> standalone.sh
